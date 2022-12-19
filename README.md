@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Alves! 👀
+### Olá! Eu sou o João Alves! 👨🏿‍🙋🏿‍♂️👋🏿
 
 <h1> Sobre mim:</h1>
 
