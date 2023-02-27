@@ -6,8 +6,6 @@
 
 - 👨‍💻 Técnico em desenvolvimento web
 
-- 📚 Ensino Médio completo
-
 - ⚡ Full-stack<br>
 
 
