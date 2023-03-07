@@ -2,8 +2,6 @@
 
 <h1> Sobre mim:</h1>
 
-- 🎈 17 anos
-
 - 📚 Graduando Sistemas de Informação
 
 - 👨‍💻 Técnico em desenvolvimento web
