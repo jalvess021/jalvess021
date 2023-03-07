@@ -8,7 +8,7 @@
 
 - 👨‍💻 Técnico em desenvolvimento web
 
-- ⚡ PHP Full-stack<br>
+- ⚡ Full-stack<br>
 
 
 <div>
