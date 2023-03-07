@@ -4,9 +4,11 @@
 
 - 🎈 17 anos
 
+- 📚 Graduando Sistemas de Informação
+
 - 👨‍💻 Técnico em desenvolvimento web
 
-- ⚡ Full-stack<br>
+- ⚡ PHP Full-stack<br>
 
 
 <div>
