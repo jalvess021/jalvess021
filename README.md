@@ -2,7 +2,7 @@
 
 <h1> Sobre mim:</h1>
 
-- 📚 Graduando em Sistemas de Informação
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
 - 👨‍💻 Técnico em desenvolvimento web
 
