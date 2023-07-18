@@ -6,7 +6,7 @@
 
 - 👨‍💻 Técnico em desenvolvimento web
 
-- ⚡ Full-stack<br>
+- ⚡ Full Stack Developer<br>
 
 
 <div>
