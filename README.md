@@ -2,11 +2,11 @@
 
 <h1> Sobre mim:</h1>
 
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas
+- 📚 Análise e Desenvolvimento de Sistemas
 
 - 👨‍💻 Técnico em desenvolvimento web
 
-- ⚡ Full Stack Developer (Php/Laravel)<br>
+- ⚡ Full Stack Developer (Main Stack: Php/Laravel)<br>
 
 
 <div>
