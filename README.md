@@ -2,10 +2,10 @@
 
 <h1> Sobre mim:</h1>
 
-- 📚 Análise e Desenvolvimento de Sistemas
+- 👨‍🎓 Analista e Desenvolvedor de Software
 
 - 👨‍💻 Técnico em desenvolvimento web
-
+  
 - ⚡ Full Stack Developer (Main Stack: Php/Laravel)<br>
 
 
