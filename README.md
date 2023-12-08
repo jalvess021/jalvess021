@@ -32,7 +32,6 @@
   <img align="center" alt="jalves-GITHUB"title='GITHUB' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="jalves-GIT" title='GIT' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
-<br>
 <div style='display: inline_block'>
   <h3>Estudando:</h3>
   <img align="center" alt="jalves-PYTHON" title='PYTHON' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
