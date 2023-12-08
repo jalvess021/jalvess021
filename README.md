@@ -33,7 +33,13 @@
   <img align="center" alt="jalves-GIT" title='GIT' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 <br>
-
+<div style='display: inline_block'>
+  <h3>Estudando:</h3>
+  <img align="center" alt="jalves-PYTHON" title='PYTHON' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="jalves-TYPESCRIPT" title='TYPESCRIPT' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="jalves-VUEJS" title='VUE' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
+</div>
+<br>
 <h2> Informações:</h2>
 
 - 📫 Contate-me: jalvess021@gmail.com
