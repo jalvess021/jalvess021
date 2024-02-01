@@ -41,7 +41,7 @@
 <br>
 <h2> Informações:</h2>
 
-- 📫 Contate-me: jalvess021@gmail.com
+- 📫 Contate-me: jalvess.dev@gmail.com
 
 - 📍 Localidade: Rio de Janeiro / Z.O
 
