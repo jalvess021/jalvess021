@@ -11,7 +11,7 @@
 
 <div>
   <a href='https://github.com/jalvess021'>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=jalvess021&show_icons=false&theme=dark&include_all_commits=ture&count_private=true'>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=jalvess021&show_icons=false&theme=dark&include_all_commits=true&count_private=true'>
     <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jalvess021&layout=compact&theme=dark'>
   </a>
 </div>
