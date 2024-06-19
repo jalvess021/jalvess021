@@ -2,7 +2,7 @@
 
 <h1> Sobre mim:</h1>
 
-- 👨‍🎓 Analista e Desenvolvedor de Software
+- 👨‍🎓 Desenvolvedor de Software
 
 - 👨‍💻 Técnico em desenvolvimento web
   
