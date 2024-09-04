@@ -17,7 +17,6 @@
   <img align="center" alt="jalves-PHP" title='PHP' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="jalves-JAVASCRIPT" title='JAVASCRIPT' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="jalves-GO" title='GO' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-  <img align="center" alt="jalves-PYTHON" title='PYTHON' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="jalves-SQL" title='SQL' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="jalves-HTML" title='HTML' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="jalves-CSS" title='CSS' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -29,17 +28,15 @@
   <img align="center" alt="jalves-JQUERY" title='JQUERY' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img align="center" alt="jalves-TYPESCRIPT" title='TYPESCRIPT' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="jalves-VUEJS" title='VUE' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
-  <img align="center" alt="jalves-ALPINEJS" title='ALPINE' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg"/>
-  <img align="center" alt="jalves-LIVEWIRE" title='LIVEWIRE' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg"/>
   <img align="center" alt="jalves-TAILWINDCSS" title='TAILWIND' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 </div>
 <div style='display: inline_block'>
   <h3>PLATAFORMAS, FERRAMENTAS E SERVIÇOS:</h3>
   <img align="center" alt="jalves-DOCKER" title='DOCKER' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="jalves-KAFKA" title='KAFKA' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
   <img align="center" alt="jalves-MYSQL" title='MYSQL' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="jalves-POSTGRES" title='POSTGRES' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="jalves-WORDPRESS" title='WORDPRESS' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /> 
-  <img align="center" alt="jalves-GITHUB"title='GITHUB' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="jalves-GIT" title='GIT' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="jalves-DO" title='Digital Ocean' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"/>
   <img align="center" alt="jalves-AWS" title='Amazon Web Services' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
