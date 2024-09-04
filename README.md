@@ -57,5 +57,3 @@ Sou Desenvolvedor de Software especializado nas linguagens <strong>PHP</strong> 
   <img align="center" alt="jalves-DO" title='Digital Ocean' height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"/>
   <img align="center" alt="jalves-AWS" title='Amazon Web Services' height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </div>
-<br>
-<br>
