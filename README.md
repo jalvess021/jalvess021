@@ -10,6 +10,6 @@ Sou Desenvolvedor de Software especializado nas linguagens <strong>PHP</strong> 
 ----------- | ----------- 
 <br/>
 <div align="">
-  <img src="https://skillicons.dev/icons?i=php,javascript,go,html,css,laravel,bootstrap,jquery,vue,tailwind,mysql,postgres,mongodb,docker,kafka,wordpress,git" style="display: inline-block;" />
+  <img src="https://skillicons.dev/icons?i=php,javascript,go,html,css,laravel,symfony,bootstrap,jquery,vue,tailwind,mysql,postgres,mongodb,docker,kafka,wordpress,git" style="display: inline-block;" />
 </div>
 
