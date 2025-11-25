@@ -2,7 +2,7 @@
 |:---:|
 
 <p align="left"> 
-Sou Desenvolvedor de Software especializado nas linguagens <strong>PHP</strong> e <strong>JavaScript</strong>, com sólida experiência em desenvolvimento de sistemas em ambientes corporativos e como freelancer. Estou sempre explorando novas tecnologias e atualmente estou imerso no mundo de <strong>GO</strong> para expandir minhas habilidades. <a href="mailto:jalvess021@gmail.com" title="Gmail">EMAIL</a> | 
+Sou Desenvolvedor de Software Pleno especializado nas linguagens <strong>PHP</strong> e <strong>JavaScript</strong>, com sólida experiência em desenvolvimento de sistemas em ambientes corporativos e como freelancer. Estou sempre explorando novas tecnologias e atualmente estou imerso no mundo de <strong>GO</strong> para expandir minhas habilidades. <a href="mailto:jalvess021@gmail.com" title="Gmail">EMAIL</a> | 
   <a href="https://linkedin.com/in/jalvess021" title="LinkedIn">LINKEDIN</a>
 </p>
 
