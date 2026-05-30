@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Define a execução diária do workflow
-    - cron: "0 18 * * *"  # Esse horário está definido para 18:00 UTC; ajuste conforme necessário
+  schedule:
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
